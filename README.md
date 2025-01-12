@@ -31,6 +31,7 @@
    ```bash
    git clone https://github.com/airdroptricks/opled.git
    cd opled
+   cd OpenLedger
    ```
 2. Install dependencies:
    ```bash
